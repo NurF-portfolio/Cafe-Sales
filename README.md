@@ -36,3 +36,8 @@ Cafe-sales-data-analysis/
 4. Dashboard screenshots are available in the `reports/dashboard/` folder for reference.
 
 ## License
+
+This project is shared under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).  
+You are welcome to view and share the work, but you may not modify it in any way. Please give appropriate credit when sharing.  
+
+More information: [CC BY-ND 4.0 License](https://creativecommons.org/licenses/by-nd/4.0/)

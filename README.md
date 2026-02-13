@@ -35,6 +35,14 @@ Cafe-sales-data-analysis/
 3. Refresh the data and explore the dashboard for sales and error analysis.
 4. Dashboard screenshots are available in the `reports/dashboard/` folder for reference.
 
+## Visualization Preview
+
+Cafe Sales Dashboard
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Cafe-Sales/blob/a6e52c11053acc0a9847779c2c817bcc66cc7774/reports/dashboard/Cafe%20Sales%20Dashboard.png)
+
+Error Analysis Cafe Sales Dashboard
+![Dashboard Screenshots](https://github.com/NurF-portfolio/Cafe-Sales/blob/a6e52c11053acc0a9847779c2c817bcc66cc7774/reports/dashboard/Error%20Analysis%20Cafe%20Sales%20Dashboard.png)
+
 ## License
 
 This project is shared under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).  
